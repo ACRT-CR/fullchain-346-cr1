@@ -1,11 +1,11 @@
 module github.com/ctfer-io/fullchain
 
-go 1.24.3
+go 1.25.8
 
 require (
-	github.com/ctfer-io/chall-manager/deploy v0.4.6-0.20250711200624-0c9edc5851c4
-	github.com/ctfer-io/ctfer v0.0.0-20250711171151-ce0102405108
-	github.com/ctfer-io/monitoring v0.1.0
+	github.com/ctfer-io/chall-manager/deploy v0.6.5
+	github.com/ctfer-io/ctfer v0.1.0
+	github.com/ctfer-io/monitoring v0.2.1
 	github.com/pkg/errors v0.9.1
 	github.com/pulumi/pulumi-kubernetes/sdk/v4 v4.23.0
 	github.com/pulumi/pulumi/sdk/v3 v3.181.0
